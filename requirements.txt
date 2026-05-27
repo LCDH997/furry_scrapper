@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+lxml
+aiohttp
+aiofiles
+pyspark
+pillow
+imagehash
+torch
+transformers
+playwright
+pandas
+pyarrow
+matplotlib
